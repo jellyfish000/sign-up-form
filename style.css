@@ -1,0 +1,17 @@
+.main{
+    display:flex;
+    height:100vh;
+}
+
+
+.cover-image{
+    width:350px;
+    height:100vh;
+}
+
+
+.login-section{
+    display:flex;
+    flex-direction:column;
+    
+}
